@@ -1,0 +1,12 @@
+{
+  "name": "benchmarks",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.7.2"
+  }
+}
