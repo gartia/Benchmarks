@@ -1,5 +1,5 @@
 # Benchmarks
-This is mainly done as a test, but to see if i can code the exact same thing across a couple languages.
+This is mainly done as a test to see if i can code the exact same thing across a couple languages and my personal curiosity of performance.
 
 C# and C++ Perform about the same, with the last test being around 22seconds. Java and Node are Around 24 seconds
 
